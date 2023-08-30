@@ -1,105 +1,4 @@
 [
-	{
-		"author": "Raj Arya",
-		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/IMG_20230608_140713.jpg",
-		"name": "Floral 14",
-		"collections": "Floral"
-	},
-	{
-		"author": "Raj Arya",
-		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686212816483.jpeg",
-		"name": "Floral 15",
-		"collections": "Floral"
-	},
-	{
-		"author": "Raj Arya",
-		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686212831506.jpeg",
-		"name": "Floral 16",
-		"collections": "Floral"
-	},
-	{
-		"author": "Raj Arya",
-		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686212854401.jpeg",
-		"name": "Floral 17",
-		"collections": "Floral"
-	},
-	{
-		"author": "Raj Arya",
-		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686212971698.jpeg",
-		"name": "Floral 18",
-		"collections": "Floral"
-	},
-	{
-		"author": "Raj Arya",
-		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686213028851.jpeg",
-		"name": "Floral 19",
-		"collections": "Floral"
-	},
-	{
-		"author": "Raj Arya",
-		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686213043417.jpeg",
-		"name": "Floral 20",
-		"collections": "Floral"
-	},
-	{
-		"author": "Raj Arya",
-		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686213059714.jpeg",
-		"name": "Floral 21",
-		"collections": "Floral"
-	},
-	{
-		"author": "Raj Arya",
-		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686213075738.jpeg",
-		"name": "Floral 22",
-		"collections": "Floral"
-	},
-	{
-		"author": "Raj Arya",
-		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686213092554.jpeg",
-		"name": "Floral 23",
-		"collections": "Floral"
-	},
-	{
-		"author": "Raj Arya",
-		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686213109111.jpeg",
-		"name": "Floral 24",
-		"collections": "Floral"
-	},
-	{
-		"author": "Raj Arya",
-		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686213149798.jpeg",
-		"name": "Floral 25",
-		"collections": "Floral"
-	},
-	{
-		"author": "Raj Arya",
-		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1693125182216.jpeg",
-		"name": "Floral 26",
-		"collections": "Floral"
-	},
-	{
-		"author": "Raj Arya",
-		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1693125196755.jpeg",
-		"name": "Floral 27",
-		"collections": "Floral"
-	},
-	{
-		"author": "Raj Arya",
-		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1693125207921.jpeg",
-		"name": "Floral 28",
-		"collections": "Floral"
-	},
-	
-
-
-
-
-
-
-
-
-
-
 {
 "author": "Raj Arya",
 "url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/IMG_20230827_141500.jpg",
@@ -220,6 +119,109 @@
 "name": "Paper Art 35",
 "collections": "Paper Art"
 },
+
+
+
+
+
+
+
+
+
+
+
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/IMG_20230608_140713.jpg",
+		"name": "Floral 14",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686212816483.jpeg",
+		"name": "Floral 15",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686212831506.jpeg",
+		"name": "Floral 16",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686212854401.jpeg",
+		"name": "Floral 17",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686212971698.jpeg",
+		"name": "Floral 18",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686213028851.jpeg",
+		"name": "Floral 19",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686213043417.jpeg",
+		"name": "Floral 20",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686213059714.jpeg",
+		"name": "Floral 21",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686213075738.jpeg",
+		"name": "Floral 22",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686213092554.jpeg",
+		"name": "Floral 23",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686213109111.jpeg",
+		"name": "Floral 24",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1686213149798.jpeg",
+		"name": "Floral 25",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1693125182216.jpeg",
+		"name": "Floral 26",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1693125196755.jpeg",
+		"name": "Floral 27",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1693125207921.jpeg",
+		"name": "Floral 28",
+		"collections": "Floral"
+	},
+	
+
 
 
 
