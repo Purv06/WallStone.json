@@ -1,4 +1,187 @@
 [
+
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/Animal%20(1).jpg",
+	"name": "Animals 90",
+	"collections": "Animals"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/Animal%20(2).jpg",
+	"name": "Animals 91",
+	"collections": "Animals"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/Animal%20(3).jpg",
+	"name": "Animals 92",
+	"collections": "Animals"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/Animal%20(4).jpg",
+	"name": "Animals 93",
+	"collections": "Animals"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/Animal%20(5).jpg",
+	"name": "Animals 94",
+	"collections": "Animals"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(1).jpg",
+	"name": "Minimalistic 18",
+	"collections": "Minimalistic"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(2).jpg",
+	"name": "Minimalistic 19",
+	"collections": "Minimalistic"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(3).jpg",
+	"name": "Minimalistic 20",
+	"collections": "Minimalistic"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(4).jpg",
+	"name": "Minimalistic 21",
+	"collections": "Minimalistic"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(5).jpg",
+	"name": "Minimalistic 22",
+	"collections": "Minimalistic"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(6).jpg",
+	"name": "Minimalistic 23",
+	"collections": "Minimalistic"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(7).jpg",
+	"name": "Minimalistic 24",
+	"collections": "Minimalistic"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(8).jpg",
+	"name": "Minimalistic 25",
+	"collections": "Minimalistic"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(9).jpg",
+	"name": "Minimalistic 26",
+	"collections": "Minimalistic"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(10).jpg",
+	"name": "Minimalistic 27",
+	"collections": "Minimalistic"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(11).jpg",
+	"name": "Minimalistic 28",
+	"collections": "Minimalistic"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(12).jpg",
+	"name": "Minimalistic 29",
+	"collections": "Minimalistic"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(13).jpg",
+	"name": "Minimalistic 30",
+	"collections": "Minimalistic"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(14).jpg",
+	"name": "Minimalistic 31",
+	"collections": "Minimalistic"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(15).jpg",
+	"name": "Minimalistic 32",
+	"collections": "Minimalistic"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://github.com/Purv06/WallStone.json/blob/main/Landscape/Landscape%20(1).jpg",
+	"name": "Landscape 50",
+	"collections": "Landscape"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://github.com/Purv06/WallStone.json/blob/main/Landscape/Landscape%20(2).jpg",
+	"name": "Landscape 51",
+	"collections": "Landscape"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://github.com/Purv06/WallStone.json/blob/main/Landscape/Landscape%20(3).jpg",
+	"name": "Landscape 52",
+	"collections": "Landscape"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://github.com/Purv06/WallStone.json/blob/main/Landscape/Landscape%20(4).jpg",
+	"name": "Landscape 53",
+	"collections": "Landscape"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://github.com/Purv06/WallStone.json/blob/main/Landscape/Landscape%20(5).jpg",
+	"name": "Landscape 54",
+	"collections": "Landscape"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://github.com/Purv06/WallStone.json/blob/main/Landscape/Landscape%20(6).jpg",
+	"name": "Landscape 55",
+	"collections": "Landscape"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://github.com/Purv06/WallStone.json/blob/main/Landscape/Landscape%20(7).jpg",
+	"name": "Landscape 56",
+	"collections": "Landscape"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://github.com/Purv06/WallStone.json/blob/main/Landscape/Landscape%20(8).jpg",
+	"name": "Landscape 57",
+	"collections": "Landscape"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://github.com/Purv06/WallStone.json/blob/main/Landscape/Landscape%20(9).jpg",
+	"name": "Landscape 58",
+	"collections": "Landscape"
+	},
+	{
+	"author": "Raj Arya",
+	"url": "https://github.com/Purv06/WallStone.json/blob/main/Landscape/Landscape%20(10).jpg",
+	"name": "Landscape 59",
+	"collections": "Landscape"
+	},
+	
+
 	{
 	"author": "Raj Arya",
 	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Scenery%20(1).jpg",
