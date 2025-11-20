@@ -1,917 +1,891 @@
 [
-
 	{
 		"author": "Raj Arya",
-    	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Cute%20Animals/CAT%20(3).png",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Animals/cat.png",
+		"thumbnail": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Thumbnail/cat.jpg",
+		"name": "Animals 99",
+		"collections": "Animals"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Animals/dog.png",
+		"thumbnail": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Thumbnail/dog.jpg",
+		"name": "Animals 98",
+		"collections": "Animals"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Animals/lion.png",
+		"thumbnail": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Thumbnail/lion.jpg",
+		"name": "Animals 97",
+		"collections": "Animals"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Cute%20Animals/CAT%20(3).png",
 		"thumbnail": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Thumbnail/CAT%20(3).jpg",
-    	"name": "Cute Animals 103",
-    	"collections": "Cute Animals"
+		"name": "Cute Animals 103",
+		"collections": "Cute Animals"
 	},
-
 	{
 		"author": "Raj Arya",
-    	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Cute%20Animals/CAT%20(2).png",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Cute%20Animals/CAT%20(2).png",
 		"thumbnail": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Thumbnail/CAT%20(2).jpg",
-    	"name": "Cute Animals 102",
-    	"collections": "Cute Animals"
+		"name": "Cute Animals 102",
+		"collections": "Cute Animals"
 	},
-
-
-
 	{
 		"author": "Raj Arya",
-    	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Cute%20Animals/CAT%20(1).png",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Cute%20Animals/CAT%20(1).png",
 		"thumbnail": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Thumbnail/CAT%20(1).jpg",
-    	"name": "Cute Animals 101",
-    	"collections": "Cute Animals"
+		"name": "Cute Animals 101",
+		"collections": "Cute Animals"
 	},
 	{
-	"author": "Raj Arya",
-    	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(3).jpg",
-    	"name": "Mountain 24",
-    	"collections": "Mountain"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(3).jpg",
+		"name": "Mountain 24",
+		"collections": "Mountain"
 	},
 	{
-	"author": "Raj Arya",
-    	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(4).jpg",
-    	"name": "Mountain 25",
-    	"collections": "Mountain"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(4).jpg",
+		"name": "Mountain 25",
+		"collections": "Mountain"
 	},
 	{
-	"author": "Raj Arya",
-    	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(5).jpg",
-    	"name": "Mountain 26",
-    	"collections": "Mountain"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(5).jpg",
+		"name": "Mountain 26",
+		"collections": "Mountain"
 	},
 	{
-	"author": "Raj Arya",
-    	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(6).jpg",
-    	"name": "Mountain 27",
-    	"collections": "Mountain"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(6).jpg",
+		"name": "Mountain 27",
+		"collections": "Mountain"
 	},
 	{
-	"author": "Raj Arya",
-    	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(7).jpg",
-    	"name": "Mountain 28",
-    	"collections": "Mountain"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(7).jpg",
+		"name": "Mountain 28",
+		"collections": "Mountain"
 	},
 	{
-	"author": "Raj Arya",
-    	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(8).jpg",
-    	"name": "Mountain 29",
-    	"collections": "Mountain"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(8).jpg",
+		"name": "Mountain 29",
+		"collections": "Mountain"
 	},
 	{
-	"author": "Raj Arya",
-    	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(9).jpg",
-    	"name": "Mountain 30",
-    	"collections": "Mountain"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(9).jpg",
+		"name": "Mountain 30",
+		"collections": "Mountain"
 	},
 	{
-	"author": "Raj Arya",
-    	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(10).jpg",
-    	"name": "Mountain 31",
-    	"collections": "Mountain"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(10).jpg",
+		"name": "Mountain 31",
+		"collections": "Mountain"
 	},
 	{
-	"author": "Raj Arya",
-    	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(11).jpg",
-    	"name": "Mountain 32",
-    	"collections": "Mountain"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(11).jpg",
+		"name": "Mountain 32",
+		"collections": "Mountain"
 	},
 	{
-	"author": "Raj Arya",
-    	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(1).jpg",
-    	"name": "Mountain 33",
-    	"collections": "Mountain"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/refs/heads/main/Mountain/Mountainn%20(1).jpg",
+		"name": "Mountain 33",
+		"collections": "Mountain"
 	},
-
-
-
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(1).jpg",		
-	"name": "Cute Animals 86",
-	"collections": "Cute Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(1).jpg",
+		"name": "Cute Animals 86",
+		"collections": "Cute Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(2).jpg",		
-	"name": "Cute Animals 87",
-	"collections": "Cute Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(2).jpg",
+		"name": "Cute Animals 87",
+		"collections": "Cute Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(3).jpg",		
-	"name": "Cute Animals 88",
-	"collections": "Cute Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(3).jpg",
+		"name": "Cute Animals 88",
+		"collections": "Cute Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(4).jpg",		
-	"name": "Cute Animals 89",
-	"collections": "Cute Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(4).jpg",
+		"name": "Cute Animals 89",
+		"collections": "Cute Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(5).jpg",		
-	"name": "Cute Animals 90",
-	"collections": "Cute Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(5).jpg",
+		"name": "Cute Animals 90",
+		"collections": "Cute Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(6).jpg",		
-	"name": "Cute Animals 91",
-	"collections": "Cute Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(6).jpg",
+		"name": "Cute Animals 91",
+		"collections": "Cute Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(7).jpg",		
-	"name": "Cute Animals 92",
-	"collections": "Cute Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(7).jpg",
+		"name": "Cute Animals 92",
+		"collections": "Cute Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(8).jpg",		
-	"name": "Cute Animals 93",
-	"collections": "Cute Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(8).jpg",
+		"name": "Cute Animals 93",
+		"collections": "Cute Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(9).jpg",		
-	"name": "Cute Animals 94",
-	"collections": "Cute Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(9).jpg",
+		"name": "Cute Animals 94",
+		"collections": "Cute Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(10).jpg",		
-	"name": "Cute Animals 95",
-	"collections": "Cute Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(10).jpg",
+		"name": "Cute Animals 95",
+		"collections": "Cute Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(11).jpg",		
-	"name": "Cute Animals 96",
-	"collections": "Cute Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(11).jpg",
+		"name": "Cute Animals 96",
+		"collections": "Cute Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(12).jpg",		
-	"name": "Cute Animals 97",
-	"collections": "Cute Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(12).jpg",
+		"name": "Cute Animals 97",
+		"collections": "Cute Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(13).jpg",		
-	"name": "Cute Animals 98",
-	"collections": "Cute Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(13).jpg",
+		"name": "Cute Animals 98",
+		"collections": "Cute Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(14).jpg",		
-	"name": "Cute Animals 99",
-	"collections": "Cute Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(14).jpg",
+		"name": "Cute Animals 99",
+		"collections": "Cute Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(15).jpg",		
-	"name": "Cute Animals 100",
-	"collections": "Cute Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/cutee%20(15).jpg",
+		"name": "Cute Animals 100",
+		"collections": "Cute Animals"
 	},
-
-
-
-
-
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/12_20231114_172931_0011.png",		
-	"name": "Minimalistic 42",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/12_20231114_172931_0011.png",
+		"name": "Minimalistic 42",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/15_20231114_172931_0014.png",		
-	"name": "Minimalistic 41",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/15_20231114_172931_0014.png",
+		"name": "Minimalistic 41",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/2_20231114_172930_0001.png",		
-	"name": "Minimalistic 40",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/2_20231114_172930_0001.png",
+		"name": "Minimalistic 40",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/43_20231114_172932_0042.png",		
-	"name": "Minimalistic 39",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/43_20231114_172932_0042.png",
+		"name": "Minimalistic 39",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/44_20231114_172932_0043.png",		
-	"name": "Minimalistic 38",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/44_20231114_172932_0043.png",
+		"name": "Minimalistic 38",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/50_20231114_172933_0049.png",		
-	"name": "Minimalistic 37",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/50_20231114_172933_0049.png",
+		"name": "Minimalistic 37",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/55_20231114_172933_0054.png",		
-	"name": "Minimalistic 36",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/55_20231114_172933_0054.png",
+		"name": "Minimalistic 36",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/66_20231114_172934_0065.png",		
-	"name": "Minimalistic 35",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/66_20231114_172934_0065.png",
+		"name": "Minimalistic 35",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/69_20231114_172934_0068.png",		
-	"name": "Minimalistic 34",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/69_20231114_172934_0068.png",
+		"name": "Minimalistic 34",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/70_20231114_172934_0069.png",		
-	"name": "Minimalistic 33",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/70_20231114_172934_0069.png",
+		"name": "Minimalistic 33",
+		"collections": "Minimalistic"
 	},
-
-
-
-
-
-
-
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(1).jpg",		
-	"name": "Studio Lights 70",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(1).jpg",
+		"name": "Studio Lights 70",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(2).jpg",		
-	"name": "Studio Lights 69",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(2).jpg",
+		"name": "Studio Lights 69",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(3).jpg",		
-	"name": "Studio Lights 68",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(3).jpg",
+		"name": "Studio Lights 68",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(4).jpg",		
-	"name": "Studio Lights 67",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(4).jpg",
+		"name": "Studio Lights 67",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(5).jpg",		
-	"name": "Studio Lights 66",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(5).jpg",
+		"name": "Studio Lights 66",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(6).jpg",		
-	"name": "Studio Lights 65",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(6).jpg",
+		"name": "Studio Lights 65",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(7).jpg",		
-	"name": "Studio Lights 64",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(7).jpg",
+		"name": "Studio Lights 64",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(8).jpg",		
-	"name": "Studio Lights 63",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(8).jpg",
+		"name": "Studio Lights 63",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(9).jpg",		
-	"name": "Studio Lights 62",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(9).jpg",
+		"name": "Studio Lights 62",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(10).jpg",		
-	"name": "Studio Lights 61",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(10).jpg",
+		"name": "Studio Lights 61",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(11).jpg",		
-	"name": "Studio Lights 60",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(11).jpg",
+		"name": "Studio Lights 60",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(12).jpg",		
-	"name": "Studio Lights 59",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(12).jpg",
+		"name": "Studio Lights 59",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(13).jpg",		
-	"name": "Studio Lights 58",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(13).jpg",
+		"name": "Studio Lights 58",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(14).jpg",		
-	"name": "Studio Lights 57",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(14).jpg",
+		"name": "Studio Lights 57",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(15).jpg",		
-	"name": "Studio Lights 56",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(15).jpg",
+		"name": "Studio Lights 56",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(16).jpg",		
-	"name": "Studio Lights 55",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(16).jpg",
+		"name": "Studio Lights 55",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(17).jpg",		
-	"name": "Studio Lights 54",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(17).jpg",
+		"name": "Studio Lights 54",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(18).jpg",		
-	"name": "Studio Lights 53",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(18).jpg",
+		"name": "Studio Lights 53",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(19).jpg",		
-	"name": "Studio Lights 52",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(19).jpg",
+		"name": "Studio Lights 52",
+		"collections": "Studio Lights"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(20).jpg",		
-	"name": "Studio Lights 51",
-	"collections": "Studio Lights"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/studio%20(20).jpg",
+		"name": "Studio Lights 51",
+		"collections": "Studio Lights"
 	},
-
-
-
-
-
-
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Abs%20(4).jpg",
-	"name": "Abstract 87",
-	"collections": "Abstract"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Abs%20(4).jpg",
+		"name": "Abstract 87",
+		"collections": "Abstract"
 	},
-	
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Abs%20(3).jpg",
-	"name": "Abstract 86",
-	"collections": "Abstract"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Abs%20(3).jpg",
+		"name": "Abstract 86",
+		"collections": "Abstract"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Abs%20(2).jpg",
-	"name": "Abstract 85",
-	"collections": "Abstract"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Abs%20(2).jpg",
+		"name": "Abstract 85",
+		"collections": "Abstract"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Abs%20(1).jpg",
-	"name": "Abstract 84",
-	"collections": "Abstract"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Abs%20(1).jpg",
+		"name": "Abstract 84",
+		"collections": "Abstract"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/anni%20(1).jpg",
-	"name": "Animals 96",
-	"collections": "Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/anni%20(1).jpg",
+		"name": "Animals 96",
+		"collections": "Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/anni%20(2).jpg",
-	"name": "Animals 95",
-	"collections": "Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/anni%20(2).jpg",
+		"name": "Animals 95",
+		"collections": "Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/Neon%20(1).jpg",
-	"name": "Neon 72",
-	"collections": "Neon"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/Neon%20(1).jpg",
+		"name": "Neon 72",
+		"collections": "Neon"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/Neon%20(2).jpg",
-	"name": "Neon 73",
-	"collections": "Neon"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/Neon%20(2).jpg",
+		"name": "Neon 73",
+		"collections": "Neon"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/Neon%20(3).jpg",
-	"name": "Neon 74",
-	"collections": "Neon"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/Neon%20(3).jpg",
+		"name": "Neon 74",
+		"collections": "Neon"
 	},
-	
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/Neon%20(4).jpg",
-	"name": "Neon 75",
-	"collections": "Neon"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/Neon%20(4).jpg",
+		"name": "Neon 75",
+		"collections": "Neon"
 	},
-	
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Scenery/Scenery%20(1).jpg",
-	"name": "Scenery 50",
-	"collections": "Scenery"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Scenery/Scenery%20(1).jpg",
+		"name": "Scenery 50",
+		"collections": "Scenery"
 	},
-	
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Scenery/Scenery%20(2).jpg",
-	"name": "Scenery 49",
-	"collections": "Scenery"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Scenery/Scenery%20(2).jpg",
+		"name": "Scenery 49",
+		"collections": "Scenery"
 	},
-	
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Scenery/Scenery%20(3).jpg",
-	"name": "Scenery 48",
-	"collections": "Scenery"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Scenery/Scenery%20(3).jpg",
+		"name": "Scenery 48",
+		"collections": "Scenery"
 	},
-	
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Scenery/Scenery%20(4).jpg",
-	"name": "Scenery 47",
-	"collections": "Scenery"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Scenery/Scenery%20(4).jpg",
+		"name": "Scenery 47",
+		"collections": "Scenery"
 	},
-	
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Scenery/Scenery%20(5).jpg",
-	"name": "Scenery 46",
-	"collections": "Scenery"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Scenery/Scenery%20(5).jpg",
+		"name": "Scenery 46",
+		"collections": "Scenery"
 	},
-
-
-
-
-
-
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/Animal%20(1).jpg",
-	"name": "Animals 90",
-	"collections": "Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/Animal%20(1).jpg",
+		"name": "Animals 90",
+		"collections": "Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/Animal%20(2).jpg",
-	"name": "Animals 91",
-	"collections": "Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/Animal%20(2).jpg",
+		"name": "Animals 91",
+		"collections": "Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/Animal%20(3).jpg",
-	"name": "Animals 92",
-	"collections": "Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/Animal%20(3).jpg",
+		"name": "Animals 92",
+		"collections": "Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/Animal%20(4).jpg",
-	"name": "Animals 93",
-	"collections": "Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/Animal%20(4).jpg",
+		"name": "Animals 93",
+		"collections": "Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/Animal%20(5).jpg",
-	"name": "Animals 94",
-	"collections": "Animals"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/Animal%20(5).jpg",
+		"name": "Animals 94",
+		"collections": "Animals"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(1).jpg",
-	"name": "Minimalistic 18",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(1).jpg",
+		"name": "Minimalistic 18",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(2).jpg",
-	"name": "Minimalistic 19",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(2).jpg",
+		"name": "Minimalistic 19",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(3).jpg",
-	"name": "Minimalistic 20",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(3).jpg",
+		"name": "Minimalistic 20",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(4).jpg",
-	"name": "Minimalistic 21",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(4).jpg",
+		"name": "Minimalistic 21",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(5).jpg",
-	"name": "Minimalistic 22",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(5).jpg",
+		"name": "Minimalistic 22",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(6).jpg",
-	"name": "Minimalistic 23",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(6).jpg",
+		"name": "Minimalistic 23",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(7).jpg",
-	"name": "Minimalistic 24",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(7).jpg",
+		"name": "Minimalistic 24",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(8).jpg",
-	"name": "Minimalistic 25",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(8).jpg",
+		"name": "Minimalistic 25",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(9).jpg",
-	"name": "Minimalistic 26",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(9).jpg",
+		"name": "Minimalistic 26",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(10).jpg",
-	"name": "Minimalistic 27",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(10).jpg",
+		"name": "Minimalistic 27",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(11).jpg",
-	"name": "Minimalistic 28",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(11).jpg",
+		"name": "Minimalistic 28",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(12).jpg",
-	"name": "Minimalistic 29",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(12).jpg",
+		"name": "Minimalistic 29",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(13).jpg",
-	"name": "Minimalistic 30",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(13).jpg",
+		"name": "Minimalistic 30",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(14).jpg",
-	"name": "Minimalistic 31",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(14).jpg",
+		"name": "Minimalistic 31",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(15).jpg",
-	"name": "Minimalistic 32",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/Minimal%20(15).jpg",
+		"name": "Minimalistic 32",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(1).jpg",
-	"name": "Landscape 50",
-	"collections": "Landscape"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(1).jpg",
+		"name": "Landscape 50",
+		"collections": "Landscape"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(2).jpg",
-	"name": "Landscape 51",
-	"collections": "Landscape"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(2).jpg",
+		"name": "Landscape 51",
+		"collections": "Landscape"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(3).jpg",
-	"name": "Landscape 52",
-	"collections": "Landscape"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(3).jpg",
+		"name": "Landscape 52",
+		"collections": "Landscape"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(4).jpg",
-	"name": "Landscape 53",
-	"collections": "Landscape"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(4).jpg",
+		"name": "Landscape 53",
+		"collections": "Landscape"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(5).jpg",
-	"name": "Landscape 54",
-	"collections": "Landscape"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(5).jpg",
+		"name": "Landscape 54",
+		"collections": "Landscape"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(6).jpg",
-	"name": "Landscape 55",
-	"collections": "Landscape"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(6).jpg",
+		"name": "Landscape 55",
+		"collections": "Landscape"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(7).jpg",
-	"name": "Landscape 56",
-	"collections": "Landscape"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(7).jpg",
+		"name": "Landscape 56",
+		"collections": "Landscape"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(8).jpg",
-	"name": "Landscape 57",
-	"collections": "Landscape"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(8).jpg",
+		"name": "Landscape 57",
+		"collections": "Landscape"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(9).jpg",
-	"name": "Landscape 58",
-	"collections": "Landscape"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(9).jpg",
+		"name": "Landscape 58",
+		"collections": "Landscape"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(10).jpg",
-	"name": "Landscape 59",
-	"collections": "Landscape"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Landscape%20(10).jpg",
+		"name": "Landscape 59",
+		"collections": "Landscape"
 	},
-	
-
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Scenery%20(1).jpg",
-	"name": "Scenery 40",
-	"collections": "Scenery"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Scenery%20(1).jpg",
+		"name": "Scenery 40",
+		"collections": "Scenery"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Scenery%20(2).jpg",
-	"name": "Scenery 41",
-	"collections": "Scenery"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Scenery%20(2).jpg",
+		"name": "Scenery 41",
+		"collections": "Scenery"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Scenery%20(3).jpg",
-	"name": "Scenery 42",
-	"collections": "Scenery"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Scenery%20(3).jpg",
+		"name": "Scenery 42",
+		"collections": "Scenery"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Scenery%20(4).jpg",
-	"name": "Scenery 43",
-	"collections": "Scenery"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Scenery%20(4).jpg",
+		"name": "Scenery 43",
+		"collections": "Scenery"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Scenery%20(5).jpg",
-	"name": "Scenery 44",
-	"collections": "Scenery"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Scenery%20(5).jpg",
+		"name": "Scenery 44",
+		"collections": "Scenery"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Scenery%20(6).jpg",
-	"name": "Scenery 45",
-	"collections": "Scenery"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/Scenery%20(6).jpg",
+		"name": "Scenery 45",
+		"collections": "Scenery"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/minimal%20(1).jpg",
-	"name": "Scenery 45",
-	"collections": "Scenery"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/minimal%20(1).jpg",
+		"name": "Scenery 45",
+		"collections": "Scenery"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/minimal%20(1).jpg",
-	"name": "Minimalistic 16",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/minimal%20(1).jpg",
+		"name": "Minimalistic 16",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/minimal%20(2).jpg",
-	"name": "Minimalistic 17",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/minimal%20(2).jpg",
+		"name": "Minimalistic 17",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/minimal%20(3).jpg",
-	"name": "Minimalistic 18",
-	"collections": "Minimalistic"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Minimalistic/minimal%20(3).jpg",
+		"name": "Minimalistic 18",
+		"collections": "Minimalistic"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Fluids%20(1).jpg",
-	"name": "Abstract 78",
-	"collections": "Abstract"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Fluids%20(1).jpg",
+		"name": "Abstract 78",
+		"collections": "Abstract"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Fluids%20(2).jpg",
-	"name": "Abstract 79",
-	"collections": "Abstract"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Fluids%20(2).jpg",
+		"name": "Abstract 79",
+		"collections": "Abstract"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Fluids%20(3).jpg",
-	"name": "Abstract 80",
-	"collections": "Abstract"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Fluids%20(3).jpg",
+		"name": "Abstract 80",
+		"collections": "Abstract"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Fluids%20(4).jpg",
-	"name": "Abstract 81",
-	"collections": "Abstract"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Fluids%20(4).jpg",
+		"name": "Abstract 81",
+		"collections": "Abstract"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Fluids%20(5).jpg",
-	"name": "Abstract 82",
-	"collections": "Abstract"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Fluids%20(5).jpg",
+		"name": "Abstract 82",
+		"collections": "Abstract"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Fluids%20(6).jpg",
-	"name": "Abstract 83",
-	"collections": "Abstract"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/Fluids%20(6).jpg",
+		"name": "Abstract 83",
+		"collections": "Abstract"
 	},
-
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(1).jpg",
-	"name": "Brush Art 1",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(1).jpg",
+		"name": "Brush Art 1",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(10).jpg",
-	"name": "Brush Art 2",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(10).jpg",
+		"name": "Brush Art 2",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(11).jpg",
-	"name": "Brush Art 3",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(11).jpg",
+		"name": "Brush Art 3",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(12).jpg",
-	"name": "Brush Art 4",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(12).jpg",
+		"name": "Brush Art 4",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(13).jpg",
-	"name": "Brush Art 5",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(13).jpg",
+		"name": "Brush Art 5",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(14).jpg",
-	"name": "Brush Art 6",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(14).jpg",
+		"name": "Brush Art 6",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(15).jpg",
-	"name": "Brush Art 7",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(15).jpg",
+		"name": "Brush Art 7",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(16).jpg",
-	"name": "Brush Art 8",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(16).jpg",
+		"name": "Brush Art 8",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(17).jpg",
-	"name": "Brush Art 9",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(17).jpg",
+		"name": "Brush Art 9",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(18).jpg",
-	"name": "Brush Art 10",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(18).jpg",
+		"name": "Brush Art 10",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(19).jpg",
-	"name": "Brush Art 11",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(19).jpg",
+		"name": "Brush Art 11",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(2).jpg",
-	"name": "Brush Art 12",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(2).jpg",
+		"name": "Brush Art 12",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(20).jpg",
-	"name": "Brush Art 13",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(20).jpg",
+		"name": "Brush Art 13",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(21).jpg",
-	"name": "Brush Art 14",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(21).jpg",
+		"name": "Brush Art 14",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(22).jpg",
-	"name": "Brush Art 15",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(22).jpg",
+		"name": "Brush Art 15",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(4).jpg",
-	"name": "Brush Art 16",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(4).jpg",
+		"name": "Brush Art 16",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(23).jpg",
-	"name": "Brush Art 17",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(23).jpg",
+		"name": "Brush Art 17",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(24).jpg",
-	"name": "Brush Art 18",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(24).jpg",
+		"name": "Brush Art 18",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(25).jpg",
-	"name": "Brush Art 19",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(25).jpg",
+		"name": "Brush Art 19",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(3).jpg",
-	"name": "Brush Art 20",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(3).jpg",
+		"name": "Brush Art 20",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(9).jpg",
-	"name": "Brush Art 21",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(9).jpg",
+		"name": "Brush Art 21",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(5).jpg",
-	"name": "Brush Art 22",
-	"collections": "Brush Art"
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(5).jpg",
+		"name": "Brush Art 22",
+		"collections": "Brush Art"
 	},
 	{
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(6).jpg",
-	"name": "Brush Art 23",
-	"collections": "Brush Art"
-
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(6).jpg",
+		"name": "Brush Art 23",
+		"collections": "Brush Art"
 	},
 	{
-
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(7).jpg",
-	"name": "Brush Art 24",
-	"collections": "Brush Art"
-
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(7).jpg",
+		"name": "Brush Art 24",
+		"collections": "Brush Art"
 	},
 	{
-
-	"author": "Raj Arya",
-	"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(8).jpg",
-	"name": "Brush Art 25",
-	"collections": "Brush Art"
-
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Brush%20Art/Brush%20Art%20(8).jpg",
+		"name": "Brush Art 25",
+		"collections": "Brush Art"
 	},
 	{
 		"author": "Raj Arya",
@@ -1123,17 +1097,6 @@
 		"name": "Halloween 20",
 		"collections": "Halloween"
 	},
-
-
-
-
-
-
-
-
-
-
-
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mini%20SuperHero/Picsart_23-10-05_22-26-25-627.png",
@@ -1284,147 +1247,126 @@
 		"name": "Mini SuperHero 25",
 		"collections": "Mini SuperHero"
 	},
-
-
-
-
-
-
-
-
-
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/IMG_20230827_141500.jpg",
-"name": "Paper Art 16",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125369299.jpeg",
-"name": "Paper Art 17",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125383185.jpeg",
-"name": "Paper Art 18",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125398961.jpeg",
-"name": "Paper Art 19",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125413359.jpeg",
-"name": "Paper Art 20",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125427626.jpeg",
-"name": "Paper Art 21",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125453917.jpeg",
-"name": "Paper Art 22",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125475788.jpeg",
-"name": "Paper Art 23",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125489003.jpeg",
-"name": "Paper Art 24",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125510912.jpeg",
-"name": "Paper Art 25",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125526836.jpeg",
-"name": "Paper Art 26",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125558463.jpeg",
-"name": "Paper Art 27",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125573226.jpeg",
-"name": "Paper Art 28",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125589497.jpeg",
-"name": "Paper Art 29",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125624068.jpeg",
-"name": "Paper Art 30",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125637424.jpeg",
-"name": "Paper Art 31",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125649382.jpeg",
-"name": "Paper Art 32",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125671685.jpeg",
-"name": "Paper Art 33",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/Picsart_23-08-27_14-14-22-462.jpg",
-"name": "Paper Art 34",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/Picsart_23-08-27_14-17-08-497.jpg",
-"name": "Paper Art 35",
-"collections": "Paper Art"
-},
-
-
-
-
-
-
-
-
-
-
-
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/IMG_20230827_141500.jpg",
+		"name": "Paper Art 16",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125369299.jpeg",
+		"name": "Paper Art 17",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125383185.jpeg",
+		"name": "Paper Art 18",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125398961.jpeg",
+		"name": "Paper Art 19",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125413359.jpeg",
+		"name": "Paper Art 20",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125427626.jpeg",
+		"name": "Paper Art 21",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125453917.jpeg",
+		"name": "Paper Art 22",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125475788.jpeg",
+		"name": "Paper Art 23",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125489003.jpeg",
+		"name": "Paper Art 24",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125510912.jpeg",
+		"name": "Paper Art 25",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125526836.jpeg",
+		"name": "Paper Art 26",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125558463.jpeg",
+		"name": "Paper Art 27",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125573226.jpeg",
+		"name": "Paper Art 28",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125589497.jpeg",
+		"name": "Paper Art 29",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125624068.jpeg",
+		"name": "Paper Art 30",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125637424.jpeg",
+		"name": "Paper Art 31",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125649382.jpeg",
+		"name": "Paper Art 32",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1693125671685.jpeg",
+		"name": "Paper Art 33",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/Picsart_23-08-27_14-14-22-462.jpg",
+		"name": "Paper Art 34",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/Picsart_23-08-27_14-17-08-497.jpg",
+		"name": "Paper Art 35",
+		"collections": "Paper Art"
+	},
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/IMG_20230608_140713.jpg",
@@ -1515,437 +1457,396 @@
 		"name": "Floral 28",
 		"collections": "Floral"
 	},
-	
-
-
-
-
-
-
-
-
-
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729769001.jpeg",
-"name": "Paper Art 1",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729786169.jpeg",
-"name": "Paper Art 2",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729808069.jpeg",
-"name": "Paper Art 3",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729833458.jpeg",
-"name": "Paper Art 4",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729851811.jpeg",
-"name": "Paper Art 5",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729869013.jpeg",
-"name": "Paper Art 6",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729885703.jpeg",
-"name": "Paper Art 7",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729900113.jpeg",
-"name": "Paper Art 8",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729917736.jpeg",
-"name": "Paper Art 9",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729939720.jpeg",
-"name": "Paper Art 10",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729956917.jpeg",
-"name": "Paper Art 11",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729971864.jpeg",
-"name": "Paper Art 12",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729988624.jpeg",
-"name": "Paper Art 13",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692730006868.jpeg",
-"name": "Paper Art 14",
-"collections": "Paper Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692730021379.jpeg",
-"name": "Paper Art 15",
-"collections": "Paper Art"
-},
-
-
-
-
-
-
-
-
-
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-45-46-548.png",
-"name": "Mixed Art 56",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-46-11-220.png",
-"name": "Mixed Art 57",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-46-41-996.png",
-"name": "Mixed Art 58",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-47-12-555.png",
-"name": "Mixed Art 59",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-47-36-742.png",
-"name": "Mixed Art 60",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-48-13-344.png",
-"name": "Mixed Art 61",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-48-41-635.png",
-"name": "Mixed Art 62",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-49-12-228.png",
-"name": "Mixed Art 63",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-50-35-142.png",
-"name": "Mixed Art 64",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-51-09-850.png",
-"name": "Mixed Art 65",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-51-34-416.png",
-"name": "Mixed Art 66",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-51-59-821.png",
-"name": "Mixed Art 67",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-52-24-309.png",
-"name": "Mixed Art 68",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-52-46-309.png",
-"name": "Mixed Art 69",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-54-02-704.png",
-"name": "Mixed Art 70",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-54-43-454.png",
-"name": "Mixed Art 71",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-55-20-373.png",
-"name": "Mixed Art 72",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-55-50-333.png",
-"name": "Mixed Art 73",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-56-14-535.png",
-"name": "Mixed Art 74",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-56-43-532.png",
-"name": "Mixed Art 75",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-57-16-654.png",
-"name": "Mixed Art 76",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-57-39-721.png",
-"name": "Mixed Art 77",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-58-31-548.png",
-"name": "Mixed Art 78",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-58-55-483.png",
-"name": "Mixed Art 79",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-59-22-593.png",
-"name": "Mixed Art 80",
-"collections": "Mixed Art"
-},
-
-
-
-
-
-
-
-
-
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692176090359.jpeg",
-"name": "Mixed Art 31",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692344121752.jpeg",
-"name": "Mixed Art 32",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692344136560.jpeg",
-"name": "Mixed Art 33",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692344156074.jpeg",
-"name": "Mixed Art 34",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692344171645.jpeg",
-"name": "Mixed Art 35",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692344188403.jpeg",
-"name": "Mixed Art 36",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692344201340.jpeg",
-"name": "Mixed Art 37",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345146503.jpeg",
-"name": "Mixed Art 38",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345162712.jpeg",
-"name": "Mixed Art 39",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345178376.jpeg",
-"name": "Mixed Art 40",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345194833.jpeg",
-"name": "Mixed Art 41",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345207430.jpeg",
-"name": "Mixed Art 42",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345225006.jpeg",
-"name": "Mixed Art 43",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345238378.jpeg",
-"name": "Mixed Art 44",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345254620.jpeg",
-"name": "Mixed Art 45",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345271413.jpeg",
-"name": "Mixed Art 46",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345289578.jpeg",
-"name": "Mixed Art 47",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345328247.jpeg",
-"name": "Mixed Art 48",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345341180.jpeg",
-"name": "Mixed Art 49",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345357047.jpeg",
-"name": "Mixed Art 50",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345379236.jpeg",
-"name": "Mixed Art 51",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345400984.jpeg",
-"name": "Mixed Art 52",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345420417.jpeg",
-"name": "Mixed Art 53",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345435630.jpeg",
-"name": "Mixed Art 54",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345455304.jpeg",
-"name": "Mixed Art 55",
-"collections": "Mixed Art"
-},
-
-
-
-
-
-
-
-
-
-
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729769001.jpeg",
+		"name": "Paper Art 1",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729786169.jpeg",
+		"name": "Paper Art 2",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729808069.jpeg",
+		"name": "Paper Art 3",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729833458.jpeg",
+		"name": "Paper Art 4",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729851811.jpeg",
+		"name": "Paper Art 5",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729869013.jpeg",
+		"name": "Paper Art 6",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729885703.jpeg",
+		"name": "Paper Art 7",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729900113.jpeg",
+		"name": "Paper Art 8",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729917736.jpeg",
+		"name": "Paper Art 9",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729939720.jpeg",
+		"name": "Paper Art 10",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729956917.jpeg",
+		"name": "Paper Art 11",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729971864.jpeg",
+		"name": "Paper Art 12",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692729988624.jpeg",
+		"name": "Paper Art 13",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692730006868.jpeg",
+		"name": "Paper Art 14",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Paper%20Art/PhotoFix_1692730021379.jpeg",
+		"name": "Paper Art 15",
+		"collections": "Paper Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-45-46-548.png",
+		"name": "Mixed Art 56",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-46-11-220.png",
+		"name": "Mixed Art 57",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-46-41-996.png",
+		"name": "Mixed Art 58",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-47-12-555.png",
+		"name": "Mixed Art 59",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-47-36-742.png",
+		"name": "Mixed Art 60",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-48-13-344.png",
+		"name": "Mixed Art 61",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-48-41-635.png",
+		"name": "Mixed Art 62",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-49-12-228.png",
+		"name": "Mixed Art 63",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-50-35-142.png",
+		"name": "Mixed Art 64",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-51-09-850.png",
+		"name": "Mixed Art 65",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-51-34-416.png",
+		"name": "Mixed Art 66",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-51-59-821.png",
+		"name": "Mixed Art 67",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-52-24-309.png",
+		"name": "Mixed Art 68",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-52-46-309.png",
+		"name": "Mixed Art 69",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-54-02-704.png",
+		"name": "Mixed Art 70",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-54-43-454.png",
+		"name": "Mixed Art 71",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-55-20-373.png",
+		"name": "Mixed Art 72",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-55-50-333.png",
+		"name": "Mixed Art 73",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-56-14-535.png",
+		"name": "Mixed Art 74",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-56-43-532.png",
+		"name": "Mixed Art 75",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-57-16-654.png",
+		"name": "Mixed Art 76",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-57-39-721.png",
+		"name": "Mixed Art 77",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-58-31-548.png",
+		"name": "Mixed Art 78",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-58-55-483.png",
+		"name": "Mixed Art 79",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/Picsart_23-08-18_13-59-22-593.png",
+		"name": "Mixed Art 80",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692176090359.jpeg",
+		"name": "Mixed Art 31",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692344121752.jpeg",
+		"name": "Mixed Art 32",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692344136560.jpeg",
+		"name": "Mixed Art 33",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692344156074.jpeg",
+		"name": "Mixed Art 34",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692344171645.jpeg",
+		"name": "Mixed Art 35",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692344188403.jpeg",
+		"name": "Mixed Art 36",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692344201340.jpeg",
+		"name": "Mixed Art 37",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345146503.jpeg",
+		"name": "Mixed Art 38",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345162712.jpeg",
+		"name": "Mixed Art 39",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345178376.jpeg",
+		"name": "Mixed Art 40",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345194833.jpeg",
+		"name": "Mixed Art 41",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345207430.jpeg",
+		"name": "Mixed Art 42",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345225006.jpeg",
+		"name": "Mixed Art 43",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345238378.jpeg",
+		"name": "Mixed Art 44",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345254620.jpeg",
+		"name": "Mixed Art 45",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345271413.jpeg",
+		"name": "Mixed Art 46",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345289578.jpeg",
+		"name": "Mixed Art 47",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345328247.jpeg",
+		"name": "Mixed Art 48",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345341180.jpeg",
+		"name": "Mixed Art 49",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345357047.jpeg",
+		"name": "Mixed Art 50",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345379236.jpeg",
+		"name": "Mixed Art 51",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345400984.jpeg",
+		"name": "Mixed Art 52",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345420417.jpeg",
+		"name": "Mixed Art 53",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345435630.jpeg",
+		"name": "Mixed Art 54",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1692345455304.jpeg",
+		"name": "Mixed Art 55",
+		"collections": "Mixed Art"
+	},
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Anime/PhotoFix_1692175304234.jpeg",
@@ -2156,15 +2057,6 @@
 		"name": "Anime 35",
 		"collections": "Anime"
 	},
-
-
-
-
-
-
-
-
-
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Horror/10_20230815_230726_0009.png",
@@ -2255,17 +2147,6 @@
 		"name": "Horror 15",
 		"collections": "Horror"
 	},
-
-
-
-
-
-
-
-
-
-
-
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/PopArt/PhotoFix_1689667247292.jpeg",
@@ -2416,17 +2297,6 @@
 		"name": "PopArt 50",
 		"collections": "PopArt"
 	},
-
-
-
-
-
-
-
-
-
-
-
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/PopArt/PhotoFix_1689667339411.jpeg",
@@ -2577,207 +2447,186 @@
 		"name": "PopArt 25",
 		"collections": "PopArt"
 	},
-
-
-
-
-
-
-
-
-
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002632279.jpeg",
-"name": "Mixed Art 1",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002656797.jpeg",
-"name": "Mixed Art 2",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002671000.jpeg",
-"name": "Mixed Art 3",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002687268.jpeg",
-"name": "Mixed Art 4",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002705944.jpeg",
-"name": "Mixed Art 5",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002720249.jpeg",
-"name": "Mixed Art 6",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002735841.jpeg",
-"name": "Mixed Art 7",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002756438.jpeg",
-"name": "Mixed Art 8",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002775550.jpeg",
-"name": "Mixed Art 9",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002789458.jpeg",
-"name": "Mixed Art 10",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002803809.jpeg",
-"name": "Mixed Art 11",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002819084.jpeg",
-"name": "Mixed Art 12",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002832992.jpeg",
-"name": "Mixed Art 13",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002847498.jpeg",
-"name": "Mixed Art 14",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002865491.jpeg",
-"name": "Mixed Art 15",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002892195.jpeg",
-"name": "Mixed Art 16",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002909468.jpeg",
-"name": "Mixed Art 17",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002929893.jpeg",
-"name": "Mixed Art 18",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002949774.jpeg",
-"name": "Mixed Art 19",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002964770.jpeg",
-"name": "Mixed Art 20",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002979947.jpeg",
-"name": "Mixed Art 21",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002996690.jpeg",
-"name": "Mixed Art 22",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689003013333.jpeg",
-"name": "Mixed Art 23",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689003031488.jpeg",
-"name": "Mixed Art 24",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689003056184.jpeg",
-"name": "Mixed Art 25",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689003073158.jpeg",
-"name": "Mixed Art 26",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689003178950.jpeg",
-"name": "Mixed Art 27",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689003411082.jpeg",
-"name": "Mixed Art 28",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689003426969.jpeg",
-"name": "Mixed Art 29",
-"collections": "Mixed Art"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689003448231.jpeg",
-"name": "Mixed Art 30",
-"collections": "Mixed Art"
-},
-
-
-
-
-
-
-
-
-
-
-
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002632279.jpeg",
+		"name": "Mixed Art 1",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002656797.jpeg",
+		"name": "Mixed Art 2",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002671000.jpeg",
+		"name": "Mixed Art 3",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002687268.jpeg",
+		"name": "Mixed Art 4",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002705944.jpeg",
+		"name": "Mixed Art 5",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002720249.jpeg",
+		"name": "Mixed Art 6",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002735841.jpeg",
+		"name": "Mixed Art 7",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002756438.jpeg",
+		"name": "Mixed Art 8",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002775550.jpeg",
+		"name": "Mixed Art 9",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002789458.jpeg",
+		"name": "Mixed Art 10",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002803809.jpeg",
+		"name": "Mixed Art 11",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002819084.jpeg",
+		"name": "Mixed Art 12",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002832992.jpeg",
+		"name": "Mixed Art 13",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002847498.jpeg",
+		"name": "Mixed Art 14",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002865491.jpeg",
+		"name": "Mixed Art 15",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002892195.jpeg",
+		"name": "Mixed Art 16",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002909468.jpeg",
+		"name": "Mixed Art 17",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002929893.jpeg",
+		"name": "Mixed Art 18",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002949774.jpeg",
+		"name": "Mixed Art 19",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002964770.jpeg",
+		"name": "Mixed Art 20",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002979947.jpeg",
+		"name": "Mixed Art 21",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689002996690.jpeg",
+		"name": "Mixed Art 22",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689003013333.jpeg",
+		"name": "Mixed Art 23",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689003031488.jpeg",
+		"name": "Mixed Art 24",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689003056184.jpeg",
+		"name": "Mixed Art 25",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689003073158.jpeg",
+		"name": "Mixed Art 26",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689003178950.jpeg",
+		"name": "Mixed Art 27",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689003411082.jpeg",
+		"name": "Mixed Art 28",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689003426969.jpeg",
+		"name": "Mixed Art 29",
+		"collections": "Mixed Art"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mixed%20Art/PhotoFix_1689003448231.jpeg",
+		"name": "Mixed Art 30",
+		"collections": "Mixed Art"
+	},
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Sticker/PhotoFix_1688977594498.jpeg",
@@ -2898,695 +2747,606 @@
 		"name": "Safari 20",
 		"collections": "Sticker"
 	},
-
-
-
-
-
-
-
-
-
-
-
-
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686144555514.jpeg",
-"name": "Studio Lights 1",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686144579097.jpeg",
-"name": "Studio Lights 2",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686144599316.jpeg",
-"name": "Studio Lights 3",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686144620107.jpeg",
-"name": "Studio Lights 4",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686144649554.jpeg",
-"name": "Studio Lights 5",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686144672486.jpeg",
-"name": "Studio Lights 6",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686166850982.jpeg",
-"name": "Studio Lights 7",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686166921210.jpeg",
-"name": "Studio Lights 8",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686166939402.jpeg",
-"name": "Studio Lights 9",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686166960621.jpeg",
-"name": "Studio Lights 10",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686166985886.jpeg",
-"name": "Studio Lights 11",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167007244.jpeg",
-"name": "Studio Lights 12",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167023828.jpeg",
-"name": "Studio Lights 13",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167057542.jpeg",
-"name": "Studio Lights 14",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167078829.jpeg",
-"name": "Studio Lights 15",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167098263.jpeg",
-"name": "Studio Lights 16",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167116945.jpeg",
-"name": "Studio Lights 17",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167133042.jpeg",
-"name": "Studio Lights 18",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167152265.jpeg",
-"name": "Studio Lights 19",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167172022.jpeg",
-"name": "Studio Lights 20",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167192001.jpeg",
-"name": "Studio Lights 21",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167210811.jpeg",
-"name": "Studio Lights 22",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167229146.jpeg",
-"name": "Studio Lights 23",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167251982.jpeg",
-"name": "Studio Lights 24",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167284239.jpeg",
-"name": "Studio Lights 25",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167303687.jpeg",
-"name": "Studio Lights 26",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167323549.jpeg",
-"name": "Studio Lights 27",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167376549.jpeg",
-"name": "Studio Lights 28",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167394001.jpeg",
-"name": "Studio Lights 29",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167409842.jpeg",
-"name": "Studio Lights 30",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167432625.jpeg",
-"name": "Studio Lights 31",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167468816.jpeg",
-"name": "Studio Lights 32",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167486108.jpeg",
-"name": "Studio Lights 33",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167505023.jpeg",
-"name": "Studio Lights 34",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167524034.jpeg",
-"name": "Studio Lights 35",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167538945.jpeg",
-"name": "Studio Lights 36",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167556985.jpeg",
-"name": "Studio Lights 37",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167585598.jpeg",
-"name": "Studio Lights 38",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167601685.jpeg",
-"name": "Studio Lights 39",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167620084.jpeg",
-"name": "Studio Lights 40",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167634768.jpeg",
-"name": "Studio Lights 41",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167650005.jpeg",
-"name": "Studio Lights 42",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167662811.jpeg",
-"name": "Studio Lights 43",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167676925.jpeg",
-"name": "Studio Lights 44",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167692476.jpeg",
-"name": "Studio Lights 45",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167709200.jpeg",
-"name": "Studio Lights 46",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167724499.jpeg",
-"name": "Studio Lights 47",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167746378.jpeg",
-"name": "Studio Lights 48",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167764379.jpeg",
-"name": "Studio Lights 49",
-"collections": "Studio Lights"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167780822.jpeg",
-"name": "Studio Lights 50",
-"collections": "Studio Lights"
-},
-
-
-
-
-
-
-
-
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/IMG_20230520_131831.jpg",
-"name": "Abstract 59",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/IMG_20230520_132550.jpg",
-"name": "Abstract 60",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/IMG_20230520_135645.jpg",
-"name": "Abstract 61",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675065117462.jpeg",
-"name": "Abstract 62",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675065325483.jpeg",
-"name": "Abstract 63",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675065472092.jpeg",
-"name": "Abstract 64",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675065499950.jpeg",
-"name": "Abstract 65",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675065546651.jpeg",
-"name": "Abstract 66",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675065611168.jpeg",
-"name": "Abstract 67",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675066190627.jpeg",
-"name": "Abstract 68",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675066219107.jpeg",
-"name": "Abstract 69",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675066241826.jpeg",
-"name": "Abstract 70",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675151620126.jpeg",
-"name": "Abstract 71",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1676049578320.jpeg",
-"name": "Abstract 72",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1676199153651.jpeg",
-"name": "Abstract 73",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1676199514362.jpeg",
-"name": "Abstract 74",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1676199534505.jpeg",
-"name": "Abstract 75",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1676200134375.jpeg",
-"name": "Abstract 76",
-"collections": "Abstract"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1684570699607.jpeg",
-"name": "Abstract 77",
-"collections": "Abstract"
-},
-
-
-
-
-
-
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/1673600784924.jpg",
-"name": "Animals 84",
-"collections": "Animals"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/1673601383751.jpg",
-"name": "Animals 85",
-"collections": "Animals"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/PhotoFix_1674312488030.jpeg",
-"name": "Animals 86",
-"collections": "Animals"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/PhotoFix_1684570827016.jpeg",
-"name": "Animals 87",
-"collections": "Animals"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/PhotoFix_1684570847494.jpeg",
-"name": "Animals 89",
-"collections": "Animals"
-},
-
-
-
-
-
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Birds/PhotoFix_1684570622112.jpeg",
-"name": "Birds 24",
-"collections": "Birds"
-},
-
-
-
-
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/PhotoFix_1684570756265.jpeg",
-"name": "Cute Animals 84",
-"collections": "Cute Animals"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/PhotoFix_1684570775904.jpeg",
-"name": "Cute Animals 85",
-"collections": "Cute Animals"
-},
-
-
-
-
-
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1675076025473.jpeg",
-"name": "Floral 10",
-"collections": "Floral"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1675076043462.jpeg",
-"name": "Floral 11",
-"collections": "Floral"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1675076075292.jpeg",
-"name": "Floral 12",
-"collections": "Floral"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1675076094016.jpe0067",
-"name": "Floral 13",
-"collections": "Floral"
-},
-
-
-
-
-
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mountain/PhotoFix_1675062647403.jpeg",
-"name": "Mountain 20",
-"collections": "Mountain"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mountain/PhotoFix_1675062676279.jpeg",
-"name": "Mountain 21",
-"collections": "Mountain"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mountain/PhotoFix_1675062694823.jpeg",
-"name": "Mountain 22",
-"collections": "Mountain"
-},
-
-
-
-
-
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/PhotoFix_1684570866700.jpeg",
-"name": "Neon 65",
-"collections": "Neon"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/PhotoFix_1684570887365.jpeg",
-"name": "Neon 66",
-"collections": "Neon"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/PhotoFix_1684570906101.jpeg",
-"name": "Neon 67",
-"collections": "Neon"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/PhotoFix_1684570923532.jpeg",
-"name": "Neon 68",
-"collections": "Neon"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/PhotoFix_1684570940524.jpeg",
-"name": "Neon 69",
-"collections": "Neon"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/PhotoFix_1684570958758.jpeg",
-"name": "Neon 70",
-"collections": "Neon"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/PhotoFix_1675929563660.jpeg",
-"name": "Neon 71",
-"collections": "Neon"
-},
-
-
-
-
-
-
-
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Scenery/PhotoFix_1674310982441.jpeg",
-"name": "Scenery 38",
-"collections": "Scenery"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Scenery/PhotoFix_1684571003295.jpeg",
-"name": "Scenery 39",
-"collections": "Scenery"
-},
-
-
-
-
-
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Superheroes/PhotoFix_1684570641438.jpeg",
-"name": "Superheroes 45",
-"collections": "Superheroes"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Superheroes/PhotoFix_1684570731902.jpeg",
-"name": "Superheroes 46",
-"collections": "Superheroes"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Superheroes/PhotoFix_1684570984795.jpeg",
-"name": "Superheroes 47",
-"collections": "Superheroes"
-},
-
-
-
-
-
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Unseen/IMG_20230131_123919.jpg",
-"name": "Unseen 61",
-"collections": "Unseen"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Unseen/IMG_20230131_124323.jpg",
-"name": "Unseen 62",
-"collections": "Unseen"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Unseen/PhotoFix_1674312460555.jpeg",
-"name": "Unseen 63",
-"collections": "Unseen"
-},
-{
-"author": "Raj Arya",
-"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Unseen/PhotoFix_1684570791352.jpeg",
-"name": "Unseen 64",
-"collections": "Unseen"
-},
-
-
-
-
-
-
-
-
-
-
-
-
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686144555514.jpeg",
+		"name": "Studio Lights 1",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686144579097.jpeg",
+		"name": "Studio Lights 2",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686144599316.jpeg",
+		"name": "Studio Lights 3",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686144620107.jpeg",
+		"name": "Studio Lights 4",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686144649554.jpeg",
+		"name": "Studio Lights 5",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686144672486.jpeg",
+		"name": "Studio Lights 6",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686166850982.jpeg",
+		"name": "Studio Lights 7",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686166921210.jpeg",
+		"name": "Studio Lights 8",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686166939402.jpeg",
+		"name": "Studio Lights 9",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686166960621.jpeg",
+		"name": "Studio Lights 10",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686166985886.jpeg",
+		"name": "Studio Lights 11",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167007244.jpeg",
+		"name": "Studio Lights 12",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167023828.jpeg",
+		"name": "Studio Lights 13",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167057542.jpeg",
+		"name": "Studio Lights 14",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167078829.jpeg",
+		"name": "Studio Lights 15",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167098263.jpeg",
+		"name": "Studio Lights 16",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167116945.jpeg",
+		"name": "Studio Lights 17",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167133042.jpeg",
+		"name": "Studio Lights 18",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167152265.jpeg",
+		"name": "Studio Lights 19",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167172022.jpeg",
+		"name": "Studio Lights 20",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167192001.jpeg",
+		"name": "Studio Lights 21",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167210811.jpeg",
+		"name": "Studio Lights 22",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167229146.jpeg",
+		"name": "Studio Lights 23",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167251982.jpeg",
+		"name": "Studio Lights 24",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167284239.jpeg",
+		"name": "Studio Lights 25",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167303687.jpeg",
+		"name": "Studio Lights 26",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167323549.jpeg",
+		"name": "Studio Lights 27",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167376549.jpeg",
+		"name": "Studio Lights 28",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167394001.jpeg",
+		"name": "Studio Lights 29",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167409842.jpeg",
+		"name": "Studio Lights 30",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167432625.jpeg",
+		"name": "Studio Lights 31",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167468816.jpeg",
+		"name": "Studio Lights 32",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167486108.jpeg",
+		"name": "Studio Lights 33",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167505023.jpeg",
+		"name": "Studio Lights 34",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167524034.jpeg",
+		"name": "Studio Lights 35",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167538945.jpeg",
+		"name": "Studio Lights 36",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167556985.jpeg",
+		"name": "Studio Lights 37",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167585598.jpeg",
+		"name": "Studio Lights 38",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167601685.jpeg",
+		"name": "Studio Lights 39",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167620084.jpeg",
+		"name": "Studio Lights 40",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167634768.jpeg",
+		"name": "Studio Lights 41",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167650005.jpeg",
+		"name": "Studio Lights 42",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167662811.jpeg",
+		"name": "Studio Lights 43",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167676925.jpeg",
+		"name": "Studio Lights 44",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167692476.jpeg",
+		"name": "Studio Lights 45",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167709200.jpeg",
+		"name": "Studio Lights 46",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167724499.jpeg",
+		"name": "Studio Lights 47",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167746378.jpeg",
+		"name": "Studio Lights 48",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167764379.jpeg",
+		"name": "Studio Lights 49",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Studio%20Lights/PhotoFix_1686167780822.jpeg",
+		"name": "Studio Lights 50",
+		"collections": "Studio Lights"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/IMG_20230520_131831.jpg",
+		"name": "Abstract 59",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/IMG_20230520_132550.jpg",
+		"name": "Abstract 60",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/IMG_20230520_135645.jpg",
+		"name": "Abstract 61",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675065117462.jpeg",
+		"name": "Abstract 62",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675065325483.jpeg",
+		"name": "Abstract 63",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675065472092.jpeg",
+		"name": "Abstract 64",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675065499950.jpeg",
+		"name": "Abstract 65",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675065546651.jpeg",
+		"name": "Abstract 66",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675065611168.jpeg",
+		"name": "Abstract 67",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675066190627.jpeg",
+		"name": "Abstract 68",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675066219107.jpeg",
+		"name": "Abstract 69",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675066241826.jpeg",
+		"name": "Abstract 70",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1675151620126.jpeg",
+		"name": "Abstract 71",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1676049578320.jpeg",
+		"name": "Abstract 72",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1676199153651.jpeg",
+		"name": "Abstract 73",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1676199514362.jpeg",
+		"name": "Abstract 74",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1676199534505.jpeg",
+		"name": "Abstract 75",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1676200134375.jpeg",
+		"name": "Abstract 76",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1684570699607.jpeg",
+		"name": "Abstract 77",
+		"collections": "Abstract"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/1673600784924.jpg",
+		"name": "Animals 84",
+		"collections": "Animals"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/1673601383751.jpg",
+		"name": "Animals 85",
+		"collections": "Animals"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/PhotoFix_1674312488030.jpeg",
+		"name": "Animals 86",
+		"collections": "Animals"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/PhotoFix_1684570827016.jpeg",
+		"name": "Animals 87",
+		"collections": "Animals"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/PhotoFix_1684570847494.jpeg",
+		"name": "Animals 89",
+		"collections": "Animals"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Birds/PhotoFix_1684570622112.jpeg",
+		"name": "Birds 24",
+		"collections": "Birds"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/PhotoFix_1684570756265.jpeg",
+		"name": "Cute Animals 84",
+		"collections": "Cute Animals"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/PhotoFix_1684570775904.jpeg",
+		"name": "Cute Animals 85",
+		"collections": "Cute Animals"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1675076025473.jpeg",
+		"name": "Floral 10",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1675076043462.jpeg",
+		"name": "Floral 11",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1675076075292.jpeg",
+		"name": "Floral 12",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/PhotoFix_1675076094016.jpe0067",
+		"name": "Floral 13",
+		"collections": "Floral"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mountain/PhotoFix_1675062647403.jpeg",
+		"name": "Mountain 20",
+		"collections": "Mountain"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mountain/PhotoFix_1675062676279.jpeg",
+		"name": "Mountain 21",
+		"collections": "Mountain"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mountain/PhotoFix_1675062694823.jpeg",
+		"name": "Mountain 22",
+		"collections": "Mountain"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/PhotoFix_1684570866700.jpeg",
+		"name": "Neon 65",
+		"collections": "Neon"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/PhotoFix_1684570887365.jpeg",
+		"name": "Neon 66",
+		"collections": "Neon"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/PhotoFix_1684570906101.jpeg",
+		"name": "Neon 67",
+		"collections": "Neon"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/PhotoFix_1684570923532.jpeg",
+		"name": "Neon 68",
+		"collections": "Neon"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/PhotoFix_1684570940524.jpeg",
+		"name": "Neon 69",
+		"collections": "Neon"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/PhotoFix_1684570958758.jpeg",
+		"name": "Neon 70",
+		"collections": "Neon"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/PhotoFix_1675929563660.jpeg",
+		"name": "Neon 71",
+		"collections": "Neon"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Scenery/PhotoFix_1674310982441.jpeg",
+		"name": "Scenery 38",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Scenery/PhotoFix_1684571003295.jpeg",
+		"name": "Scenery 39",
+		"collections": "Scenery"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Superheroes/PhotoFix_1684570641438.jpeg",
+		"name": "Superheroes 45",
+		"collections": "Superheroes"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Superheroes/PhotoFix_1684570731902.jpeg",
+		"name": "Superheroes 46",
+		"collections": "Superheroes"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Superheroes/PhotoFix_1684570984795.jpeg",
+		"name": "Superheroes 47",
+		"collections": "Superheroes"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Unseen/IMG_20230131_123919.jpg",
+		"name": "Unseen 61",
+		"collections": "Unseen"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Unseen/IMG_20230131_124323.jpg",
+		"name": "Unseen 62",
+		"collections": "Unseen"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Unseen/PhotoFix_1674312460555.jpeg",
+		"name": "Unseen 63",
+		"collections": "Unseen"
+	},
+	{
+		"author": "Raj Arya",
+		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Unseen/PhotoFix_1684570791352.jpeg",
+		"name": "Unseen 64",
+		"collections": "Unseen"
+	},
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1680255984361.jpeg",
@@ -3665,11 +3425,6 @@
 		"name": "Abstract 58",
 		"collections": "Abstract"
 	},
-	
-	
-	
-	
-	
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Miami/1676565648413.jpg",
@@ -3880,12 +3635,6 @@
 		"name": "Miami 35",
 		"collections": "Miami"
 	},
-
-	
-	
-	
-	
-	
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/PhotoFix_1674991017145.jpeg",
@@ -4078,7 +3827,7 @@
 		"name": "Cute Animals 75",
 		"collections": "Cute Animals"
 	},
-  	{
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/PhotoFix_1674992453132.jpeg",
 		"name": "Cute Animals 76",
@@ -4126,13 +3875,7 @@
 		"name": "Cute Animals 83",
 		"collections": "Cute Animals"
 	},
-	
-	
-	
-	
-	
-	
-        {
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/PhotoFix_1675941909289.jpeg",
 		"name": "Neon 36",
@@ -4306,13 +4049,7 @@
 		"name": "Neon 64",
 		"collections": "Neon"
 	},
-	
-	
-	
-	
-	
-	
-       {
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Gradients/IMG_20230212_150212.jpg",
 		"name": "Gradients 1",
@@ -4492,11 +4229,6 @@
 		"name": "Gradients 30",
 		"collections": "Gradients"
 	},
-
-	
-	
-	
-	
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Graffiti/IMG_20230215_151549.jpg",
@@ -4677,12 +4409,6 @@
 		"name": "Graffiti 30",
 		"collections": "Graffiti"
 	},
-
-	
-	
-	
-	
-	
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Neon/PhotoFix_1675849045862.jpeg",
@@ -4893,13 +4619,6 @@
 		"name": "Neon 35",
 		"collections": "Neon"
 	},
-	
-	
-	
-	
-	
-	
-	
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Wildscape/PhotoFix_1676017033736.jpeg",
@@ -5080,15 +4799,6 @@
 		"name": "Wildscape 30",
 		"collections": "Wildscape"
 	},
-
-
-	
-	
-	
-	
-	
-	
-	
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/IMG_20230117_175946.jpg",
@@ -5299,7 +5009,7 @@
 		"name": "Abstract 35",
 		"collections": "Abstract"
 	},
-  	{
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Abstract/PhotoFix_1674379106600.jpeg",
 		"name": "Abstract 36",
@@ -5359,11 +5069,7 @@
 		"name": "Abstract 45",
 		"collections": "Abstract"
 	},
-       
-       
-       
-       
-       {
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/PhotoFix_1673945109456.jpeg",
 		"name": "Animals 1",
@@ -5573,7 +5279,7 @@
 		"name": "Animals 35",
 		"collections": "Animals"
 	},
-  	{
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Animals/PhotoFix_1674305650818.jpeg",
 		"name": "Animals 36",
@@ -5603,10 +5309,6 @@
 		"name": "Animals 40",
 		"collections": "Animals"
 	},
-	
-	
-	
-	
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Birds/PhotoFix_1673972963073.jpeg",
@@ -5745,11 +5447,7 @@
 		"name": "Birds 23",
 		"collections": "Birds"
 	},
-	
-	
-	
-	
-	       {
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Chivi%20Style/PhotoFix_1674539724061.jpeg",
 		"name": "Winter 1",
@@ -5959,7 +5657,7 @@
 		"name": "Winter 35",
 		"collections": "Winter"
 	},
-  	{
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Chivi%20Style/PhotoFix_1674655746132.jpeg",
 		"name": "Winter 36",
@@ -5977,11 +5675,6 @@
 		"name": "Winter 38",
 		"collections": "Winter"
 	},
-
-	
-	
-
-
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Colorful/PhotoFix_1674408983385.jpeg",
@@ -6078,11 +5771,7 @@
 		"name": "Colorful 16",
 		"collections": "Colorful"
 	},
-	
-	
-	
-	
-	  {
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/IMG_20230121_124325.png",
 		"name": "Cute Animals 1",
@@ -6292,7 +5981,7 @@
 		"name": "Cute Animals 35",
 		"collections": "Cute Animals"
 	},
-  	{
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Cute%20Animals/PhotoFix_1674286619855.jpeg",
 		"name": "Cute Animals 36",
@@ -6340,11 +6029,7 @@
 		"name": "Cute Animals 43",
 		"collections": "Cute Animals"
 	},
-	
-	
-	
-	
-	       {
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Emoji/IMG_20230126_154107.jpg",
 		"name": "Emoji 1",
@@ -6554,7 +6239,7 @@
 		"name": "Emoji 35",
 		"collections": "Emoji"
 	},
-  	{
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Emoji/PhotoFix_1674726045214.jpeg",
 		"name": "Emoji 36",
@@ -6566,12 +6251,7 @@
 		"name": "Emoji 37",
 		"collections": "Emoji"
 	},
-
-	
-	
-	
-	
-        {
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Floral/IMG_20230120_153021.jpg",
 		"name": "Floral 1",
@@ -6625,11 +6305,7 @@
 		"name": "Floral 9",
 		"collections": "Floral"
 	},
-	
-	
-	
-	
-	       {
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/1_20230117_111735_0000.png",
 		"name": "Landscape 1",
@@ -6839,7 +6515,7 @@
 		"name": "Landscape 35",
 		"collections": "Landscape"
 	},
-  	{
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Landscape/PhotoFix_1674290739888.jpeg",
 		"name": "Landscape 36",
@@ -6923,10 +6599,6 @@
 		"name": "Landscape 49",
 		"collections": "Landscape"
 	},
-	
-	
-	
-	
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Mountain/PhotoFix_1673944979583.jpeg",
@@ -7041,11 +6713,6 @@
 		"name": "Mountain 19",
 		"collections": "Mountain"
 	},
-	
-	
-	
-	
-	
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Organic/PhotoFix_1673947170010.jpeg",
@@ -7112,12 +6779,7 @@
 		"name": "Organic 11",
 		"collections": "Organic"
 	},
-	
-	
-	
-	
-		
-	       {
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Pastel%20Love/IMG_20230123_170823.jpg",
 		"name": "Pastel Love 1",
@@ -7327,7 +6989,7 @@
 		"name": "Pastel Love 35",
 		"collections": "Pastel Love"
 	},
-  	{
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Pastel%20Love/PhotoFix_1674541754831.jpeg",
 		"name": "Pastel Love 36",
@@ -7339,11 +7001,6 @@
 		"name": "Pastel Love 37",
 		"collections": "Pastel Love"
 	},
-	
-	
-	
-	
-		
 	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Scenery/IMG_20230123_191219.jpg",
@@ -7554,7 +7211,7 @@
 		"name": "Scenery 35",
 		"collections": "Scenery"
 	},
-  	{
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Scenery/PhotoFix_1674541654086.jpeg",
 		"name": "Scenery 36",
@@ -7566,11 +7223,7 @@
 		"name": "Scenery 37",
 		"collections": "Scenery"
 	},
-	
-	
-	
-	
-		{
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Sea%20and%20Beaches/2_20230117_111735_0001.png",
 		"name": "Sea and Beaches 1",
@@ -7636,11 +7289,7 @@
 		"name": "Sea and Beaches 11",
 		"collections": "Sea and Beaches"
 	},
-	
-	
-	
-	
-		       {
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Superheroes/PhotoFix_1674314499084.jpeg",
 		"name": "Superheroes 1",
@@ -7850,7 +7499,7 @@
 		"name": "Superheroes 35",
 		"collections": "Superheroes"
 	},
-  	{
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Superheroes/PhotoFix_1674636672265.jpeg",
 		"name": "Superheroes 36",
@@ -7904,11 +7553,7 @@
 		"name": "Superheroes 44",
 		"collections": "Superheroes"
 	},
-	
-	
-	
-	
-        {
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Unseen/PhotoFix_1674806788313.jpeg",
 		"name": "Unseen 1",
@@ -8118,7 +7763,7 @@
 		"name": "Unseen 35",
 		"collections": "Unseen"
 	},
-  	{
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Unseen/PhotoFix_1674808244766.jpeg",
 		"name": "Unseen 36",
@@ -8238,7 +7883,7 @@
 		"name": "Unseen 55",
 		"collections": "Unseen"
 	},
-  	{
+	{
 		"author": "Raj Arya",
 		"url": "https://raw.githubusercontent.com/Purv06/WallStone.json/main/Unseen/PhotoFix_1674812876409.jpeg",
 		"name": "Unseen 56",
@@ -8268,15 +7913,4 @@
 		"name": "Unseen 60",
 		"collections": "Unseen"
 	}
-
-
-
-
-
-
-
-
-
-
-  
 ]
